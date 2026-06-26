@@ -67,13 +67,6 @@ python main.py
 
 If you don't want to install Python, download the latest Windows version from the **Releases** section of this repository.
 
-## 📸 Screenshots
-
-*Add screenshots of the game here.*
-
-## 🎥 Demo
-
-*Add a GIF or short video demonstrating gesture controls.*
 
 ## 👩‍💻 Author
 
